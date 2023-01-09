@@ -1,7 +1,7 @@
 # FlipkartReviewScraper
 
 <div>
-<img src="https://github.com/Shubham3023/FlipkartReviewScraper/blob/main/Project%20Images/WebScraping.jpg" width="700" height="400" alt="Web Scraping"/>
+<img src="https://github.com/Shubham3023/FlipkartReviewScraper/blob/main/Project%20Images/WebScraping.gif" width="700" height="400" alt="Web Scraping"/>
 </div>
 
 
